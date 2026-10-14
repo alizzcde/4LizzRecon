@@ -8,7 +8,7 @@ Developed by **Ali Alizada** leveraging AI-driven development, this tool automat
 * **Risk-Based Prioritization:** Automatically categorizes and sorts discovered subdomains based on their potential security risk.
 * **Exportable Reports:** Download filtered and sorted results in clean formats for your next testing phase.
 
-## Başlatma
+## Start
 1. Backend (Python FastAPI):
    ```bash
    python -m uvicorn backend.server:app --host 127.0.0.1 --port 8000
@@ -17,4 +17,5 @@ Developed by **Ali Alizada** leveraging AI-driven development, this tool automat
    ```bash
    npm.cmd run dev
    ```
-3. Brauzerdə açın: `http://localhost:5173/`
+3. Open browser
+ `http://localhost:5173/`
