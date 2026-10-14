@@ -1,0 +1,8 @@
+{
+  "shodan_api_key": "",
+  "securitytrails_api_key": "",
+  "zoomeye_api_key": "",
+  "virustotal_api_key": "",
+  "chaos_api_key": "",
+  "github_token": ""
+}
